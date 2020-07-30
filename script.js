@@ -27,6 +27,13 @@ $(function()
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
+	var songs = [{
+		artist: "unknown",
+		name: "Hope-T",
+		url: "Musics/Hope-T.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}];
+	
 	function shuffle(a) {
 		var j, x, i;
 		for (i = a.length - 1; i > 0; i--) {
