@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "unknown",
-		name: "Hope-T",
-		url: "Musics/Hope-T .mp3",
+		artist: "MTP",
+		name: "Có chắc yêu là đây",
+		url: "Musics/CCYLĐ.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
