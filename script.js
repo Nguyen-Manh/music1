@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "unknown",
 		name: "Hope-T",
-		url: "music1/Musics/Hope-T .mp3",
+		url: "Musics/Hope-T .mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
