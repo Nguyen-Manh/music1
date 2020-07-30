@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "MTP",
-		name: "Có chắc yêu là đây",
-		url: "Musics/CCYLĐ.mp3",
+		artist: "SolMonS",
+		name: "ZE1A1",
+		url: "Musics/ZE1A1.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
