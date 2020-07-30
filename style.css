@@ -32,8 +32,8 @@ body
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
-    filter: blur(1px);
-    -webkit-filter: blur(1px);
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
     z-index: 1;
 }
 
@@ -45,7 +45,7 @@ body
     bottom: 0;
     left: 0;
     background-color: #fff;
-    opacity: 0.51;
+    opacity: 0.81;
     z-index: 2;
 }
 
