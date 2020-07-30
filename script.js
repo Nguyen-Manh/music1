@@ -25,6 +25,16 @@ $(function()
 		name: "ZE1A1",
 		url: "Musics/ZE1A1.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "SolMonS",
+		name: "Lunai",
+		url: "Musics/Lunai.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "SolMonS",
+		name: "Hope-T",
+		url: "Musics/Hope-T.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
